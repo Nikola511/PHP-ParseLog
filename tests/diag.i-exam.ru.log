@@ -1,0 +1,210 @@
+array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => '',
+    'violated-directive' => 'script-src \'unsafe-eval\' \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com;script-src \'unsafe-eval\' \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com;report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://dl.metabar.ru/static/js/sovetnik.min.js?mbr=true&settings=%7B%22affId%22%3A1020%2C%22clid%22%3A2210496%2C%22applicationName%22%3A%22SaveFrom%22%2C%22aviaEnabled%22%3Atrue%2C%22offerEnabled%22%3Atrue%7D',
+    'line-number' => 24840,
+    'column-number' => 27,
+    'status-code' => 200,
+  ),
+  'ip' => '78.37.98.91',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => 'dl.metabar.ru',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => 'http://training.i-exam.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'style-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://adblockers.opera-mini.net/css_block/default/page_2_5prta9ffi25yi10idekfd75xup79xq4sghcx1fdnrwyn20cren.css',
+    'line-number' => 100,
+    'source-file' => 'http://diag.i-exam.ru/',
+    'status-code' => 200,
+  ),
+  'ip' => '5.165.8.45',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.94',
+  'blocked-host' => 'adblockers.opera-mini.net',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => 'http://training.i-exam.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'style-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://adblockers.opera-mini.net/css_block/default/domainless-unknown.css',
+    'line-number' => 99,
+    'source-file' => 'http://diag.i-exam.ru/',
+    'status-code' => 200,
+  ),
+  'ip' => '5.165.8.45',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.94',
+  'blocked-host' => 'adblockers.opera-mini.net',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://siteheart.net/optout/get?jsonp=__twb_cb_79513595&key=24e961841a2970a134&t=1484764825536',
+    'line-number' => 3,
+    'column-number' => 5100,
+    'source-file' => 'http://s3.amazonaws.com/cdn-javascript/24e961841a2970a134.js',
+    'status-code' => 200,
+  ),
+  'ip' => '212.193.78.206',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => 'siteheart.net',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => '',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'img-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://siteheart.net/metric/?mid=&wid=49377&sid=&tid=590&rid=LAUNCHED&t=1484764825501',
+    'status-code' => 200,
+  ),
+  'ip' => '212.193.78.206',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => 'siteheart.net',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'img-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://siteheart.net/metric/?mid=&wid=49377&sid=&tid=590&rid=LOADED&custom1=diag.i-exam.ru&t=1484764825531',
+    'status-code' => 200,
+  ),
+  'ip' => '212.193.78.206',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => '',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => '',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'img-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://siteheart.net/metric/?mid=&wid=49377&sid=&tid=590&rid=LOADED&custom1=diag.i-exam.ru&t=1484764825531',
+    'status-code' => 200,
+  ),
+  'ip' => '212.193.78.206',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => '',
+)
+array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => 'http://training.i-exam.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://www.googletagmanager.com/gtm.js?id=GTM-P6F4WB',
+    'line-number' => 2,
+    'column-number' => 299,
+    'status-code' => 200,
+  ),
+  'ip' => '188.234.209.106',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => 'www.googletagmanager.com',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => 'http://training.i-exam.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'https://callbackhunter.com/_hunter/?hcode=000fe4ce14895e0ea13b4648e230e5f2&session_id=null&url=http%3A%2F%2Fdiag.i-exam.ru%2F&param=1&extension_mode=1&referer=http%3A%2F%2Ftraining.i-exam.ru%2F&is_ie=0',
+    'line-number' => 4,
+    'column-number' => 1746,
+    'source-file' => 'http://cdn.callbackhunter.com/cbh.js?v=3&lang=ru&hunter_code=000fe4ce14895e0ea13b4648e230e5f2&extension_mode=1&phone=%2B78362422468&phonesTotal=4',
+    'status-code' => 200,
+  ),
+  'ip' => '188.234.209.106',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'blocked-host' => 'callbackhunter.com',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/#remodal-test',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'img-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://csi.gstatic.com/csi?v=3&s=mobilespeed&action=load&it=wtsrt_.611,tbsd_.84,tbnd_.1484769306621,dns_.0,con_.109,req_.470,rcv_.163,ntsrt_.611,nsfs_.3,nsds_.3,nscs_.32,nsrqs_.141,sens_.1484769306621,ntplt0_.9068,nsfp_.2010&srt=611&tbsrt=1484769307317&tran=15&e=default_control1&rt=ol.8501',
+    'status-code' => 200,
+  ),
+  'ip' => '213.87.120.83',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM-J320F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36',
+  'blocked-host' => 'csi.gstatic.com',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => 'https://www.google.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'status-code' => 200,
+  ),
+  'ip' => '2.92.99.255',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
+  'blocked-host' => 's3.amazonaws.com',
+)array (
+  'csp-report' => 
+  array (
+    'referrer' => 'https://www.google.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://ocsearch.net',
+    'status-code' => 200,
+  ),
+  'ip' => '2.92.99.255',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
+  'blocked-host' => 'ocsearch.net',
+)array (
+  'csp-report' => 
+  array (
+    'referrer' => 'https://www.google.ru/',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'script-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'status-code' => 200,
+  ),
+  'ip' => '2.92.99.255',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36',
+  'blocked-host' => 'profitkode.com',
+)array (
+  'csp-report' => 
+  array (
+    'document-uri' => 'http://diag.i-exam.ru/',
+    'referrer' => '',
+    'violated-directive' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com',
+    'effective-directive' => 'style-src',
+    'original-policy' => 'default-src \'self\' \'unsafe-inline\' \'unsafe-eval\' data: blob: https://yastatic.net https://*.yandex.ru https://mc.yandex.ru yandex.ru https://*.yandex.net https://*.gstatic.com http://fonts.gstatic.com https://*.googleapis.com *.i-exam.ru i-exam.ru https://mypage.i-exam.ru http://*.reformal.ru reformal.ru www.slideshare.net www.youtube.com; report-uri https://test.i-exam.ru/collector.php',
+    'blocked-uri' => 'http://adblockers.opera-mini.net/css_block/default/domainless-unknown.css',
+    'line-number' => 99,
+    'source-file' => 'http://diag.i-exam.ru/',
+    'status-code' => 200,
+  ),
+  'ip' => '176.59.106.150',
+  'user_agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.94',
+  'blocked-host' => 'adblockers.opera-mini.net',
+)
